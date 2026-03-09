@@ -47,3 +47,6 @@ Ve = exit velocity
 Pe = exit pressure  
 Pa = ambient pressure  
 Ae = exit area
+## Mach Number Distribution
+
+![Mach Distribution](mach_distribution.png)
