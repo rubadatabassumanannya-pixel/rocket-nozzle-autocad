@@ -21,3 +21,8 @@ This project demonstrates the creation of a rocket nozzle contour using coordina
 
 ## Application
 This geometry represents a rocket propulsion nozzle profile used for expanding exhaust gases and generating thrust.
+## Python Nozzle Profile Generator
+
+The nozzle profile can also be generated using Python.
+
+![Python Plot](python_nozzle_plot.png)
